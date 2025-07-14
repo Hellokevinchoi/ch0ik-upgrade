@@ -11,6 +11,7 @@ K – Keep debugging, keep improving, keep going.
 ## 📋 소개
 
 **ch0ik-upgrade**는 Google Gemini API를 활용한 개인용 AI 어시스턴트입니다. Streamlit 기반의 웹 인터페이스로 쉽고 빠르게 대화형 AI를 경험할 수 있습니다.
+**ch0ik-upgrade**눈 바이브 코딩으로 이루워져 있습니다
 
 ---
 
